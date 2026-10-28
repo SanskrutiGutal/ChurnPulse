@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Logistic Regression,0.8055,0.6572,0.5588,0.604
+Decision Tree,0.7984,0.6347,0.5668,0.5989
+KNN,0.7637,0.5527,0.5749,0.5636
+Gaussian Naive Bayes,0.6948,0.4589,0.8369,0.5928
